@@ -71,7 +71,7 @@ typedef struct{
 
 
 
-/*******************APIS for GPIO driver********************************************************/
+/*******************APIS for I2C driver********************************************************/
 
   //peripherial clock setup
   void I2C_PeriClockControl(I2C_RegDef_t *pI2Cx, uint8_t EnorDi);
