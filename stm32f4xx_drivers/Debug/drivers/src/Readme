@@ -1,0 +1,8 @@
+Note:
+1. This files are made not for any commercial use
+2. I have made this driver files for my study related purpose, so there might be bugs
+
+Instructions
+1. There is two type of files : header files and sourec files
+2. Create two separate folder, in which one for header files and another one for sourece file
+3.Device header file is the main file, it should be include in the file
